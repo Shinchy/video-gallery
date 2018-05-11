@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.2.0",
     "react-native": "0.52",
+    "react-native-snap-carousel": "^3.7.0",
     "react-native-video": "^2.0.0"
   },
   "devDependencies": {
